@@ -1,0 +1,69 @@
+#
+###################################
+# Site wide configuration
+####################################
+#
+title: Austin Knight
+email:
+description: Blog of Austin Knight
+url: # the base hostname & protocol for your site
+
+
+#
+###################################
+# Jekyll configuration
+####################################
+#
+timezone:
+markdown:          kramdown
+highlighter:       rouge
+excerpt_separator: <!--more-->
+permalink:         /articles/:year-:month/:title
+
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  enable_coderay: false
+
+#
+###################################
+# Site Owner configuration
+####################################
+#
+owner:
+  name: Austin Knight
+  avatar: austin-knight@2x.png
+  job: "UI/UX Designer & Software Engineer"
+  bio:
+  email:
+  disqus-shortname: austinknight
+  twitter: austinknight
+  facebook: #username
+  google:
+    plus: #username
+    analytics: UA-25815776-1
+    verify:
+    ad-client:
+    ad-slot:
+  bing-verify:
+  github: austinknight
+  gitlab: #username
+  stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
+  linkedin: #username
+  skype: #username
+  xing: #username
+  instagram: #username
+  lastfm: #username
+  tumblr: #username
+  pinterest: #username
+  foursquare: #username
+  steam: #username
+  dribbble: austinknight
+  youtube: #username
+  soundcloud: #username
+  weibo: #username
+  flickr: #username
+  500px: #username
+  codepen: #username
