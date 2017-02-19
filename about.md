@@ -2,6 +2,7 @@
 title: About
 layout: page
 class: about
+navPage: true
 ---
 
 ![](/img/about-photo.jpg)
