@@ -1,5 +1,5 @@
 ---
-title: Bespoke Offers
+title: "Work: Bespoke Offers"
 layout: page
 ---
 
