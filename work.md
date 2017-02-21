@@ -18,7 +18,12 @@ permalink: /work/
     </a>
   </div>
   <div class="work-list__item col-xs-12 col-md-6 col-lg-4">
-    <a href="/work/bespoke-offers/lifeline-ministries" class="work-list__item__link">
+    <a href="/work/bespoke-offers"  class="work-list__item__link">
+      <img src="/img/project-covers/bespoke-cover.png" />
+    </a>
+  </div>
+  <div class="work-list__item col-xs-12 col-md-6 col-lg-4">
+    <a href="/work/lifeline-ministries" class="work-list__item__link">
       <img src="/img/project-covers/lifeline-ministries-cover.png" />
     </a>
   </div>
@@ -30,11 +35,6 @@ permalink: /work/
   <div class="work-list__item col-xs-12 col-md-6 col-lg-4">
     <a href="/work/great-shape" class="work-list__item__link">
       <img src="/img/project-covers/great-shape-cover.png" />
-    </a>
-  </div>
-  <div class="work-list__item col-xs-12 col-md-6 col-lg-4">
-    <a href="/work/bespoke-offers"  class="work-list__item__link">
-      <img src="/img/project-covers/bespoke-cover.png" />
     </a>
   </div>
   <div class="work-list__item col-xs-12 col-md-6 col-lg-4">
