@@ -1,4 +1,8 @@
 /* LAYOUT CSS */
+body {
+  overflow-x: hidden;
+}
+
 .cover {
   background-color: $background-color;
   position: fixed;
