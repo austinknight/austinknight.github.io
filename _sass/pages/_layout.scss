@@ -3,6 +3,10 @@ body {
   overflow-x: hidden;
 }
 
+.main-wrapper {
+  margin: 0;
+}
+
 .cover {
   background-color: $background-color;
   position: fixed;
