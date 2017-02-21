@@ -1,0 +1,16 @@
+.work-list__item {
+  margin-bottom: 35px;
+}
+
+.work-list__item__link {
+  background: $background-color;
+  box-sizing: border-box;
+  display: block;
+  cursor: pointer;
+  padding: 25px;
+  width: 100%;
+}
+
+.work-image-row {
+  margin-bottom: 75px;
+}
