@@ -17,6 +17,11 @@ permalink: /work/
       <img src="/img/project-covers/insidesales-cover.png" />
     </a>
   </div>
+    <div class="work-list__item col-xs-12 col-md-6 col-lg-4">
+    <a href="/work/backcountry" class="work-list__item__link">
+      <img src="/img/project-covers/backcountry-cover.png" />
+    </a>
+  </div>
   <div class="work-list__item col-xs-12 col-md-6 col-lg-4">
     <a href="/work/bespoke-offers"  class="work-list__item__link">
       <img src="/img/project-covers/bespoke-cover.png" />
