@@ -24,7 +24,7 @@ If you want to get the most out of your formal educational experience, and life 
 
 >“The most important lesson an inspiring design professional can learn is to take responsibility for his or her own education. Your education I up to you. Your teachers and professors can’t “learn” you anything. You have to learn it, internalize it, and make it your won so that you apply your understanding intuitively in practice. What’s more, it is not your teachers’ job to prepare you for life or to give you the entire syllabus for what is required. Their job is to point the way toward the path you should follow. Period.”
 
-If we don’t learn to do our own thing, and only live through the experience of others, we will become illiterate. Your education can get in a rut somewhere along the way, but it is important to realize that you will be learning for your whole life. If you want to be a designer, you have to continue learning or you will fail. You will be left behind in this fast-paced environment we work in. I was watching a talk by August de los Reyes on [“The Myth of Design Education”](http://goo.gl/EjTYhh), and the end of his talk he left the audience with a quote to ponder on the topic of educating yourselves. It was helpful for me in putting this idea of doing your own thing into perspective, so I will leave it with you to ponder as well.
+If we don’t learn to do our own thing, and only live through the experience of others, we will become illiterate. Your education can get in a rut somewhere along the way, but it is important to realize that you will be learning for your whole life. If you want to be a designer, you have to continue learning or you will fail. You will be left behind in this fast-paced environment we work in. I was watching a talk by August de los Reyes on [“The Myth of Design Education”](https://goo.gl/EjTYhh), and the end of his talk he left the audience with a quote to ponder on the topic of educating yourselves. It was helpful for me in putting this idea of doing your own thing into perspective, so I will leave it with you to ponder as well.
 
 >“The illiterate of the future will not be the person who cannot read. It will be the person who does not know how to learn”
 -AlvinToffler
@@ -32,5 +32,5 @@ If we don’t learn to do our own thing, and only live through the experience of
 **References in this article:**
 
 * [Andy Rutledge](https://twitter.com/andyrutledge)
-* [Design professionalism quote](http://designprofessionalism.com/preparation-education.php)
+* [Design professionalism quote](https://designprofessionalism.com/preparation-education.php)
 * [The Myth of Design Education Video](https://www.youtube.com/watch?v=MZ8H4nizJWI&list=UUdFqi9FTplg7NoGchLq3G2g&index=17&feature=plcp)

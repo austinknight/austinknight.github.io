@@ -135,7 +135,7 @@ To see the data that gets returned from our api call, we can use the Angular bin
     <p ng-show="zip">Searching the forecasts for: {{zip}}</p>
     <div>
       <h1>Forecast For: {{ place.location.city }}</h1>
-      <h2>Current: {{ place.item.condition.text }} | {{ place.item.condition.temp }}&deg; <img src="http://l.yimg.com/a/i/us/we/52/{{place.item.condition.code}}.gif"/></h2>
+      <h2>Current: {{ place.item.condition.text }} | {{ place.item.condition.temp }}&deg; <img src="https://l.yimg.com/a/i/us/we/52/{{place.item.condition.code}}.gif"/></h2>
       <div ng-repeat="forecast in place.item.forecast">
         <p><strong>{{ forecast.date }}</strong> – {{ forecast.text }}</p>
         <p>H: {{ forecast.high }}&deg; | L: {{ forecast.low }}&deg;</p>
@@ -147,4 +147,4 @@ To see the data that gets returned from our api call, we can use the Angular bin
 That's all for this little app. You can play around with the data bindings and arrange the markup however you like to display different information. If you have any questions leave a comment and I'll try to help you out. Check out the demo below to see it in action!
 
 #### Demo
-<iframe id="demo" width="100%" height="500px" src="http://embed.plnkr.co/SsUCnE"></iframe>
+<iframe id="demo" width="100%" height="500px" src="https://embed.plnkr.co/SsUCnE"></iframe>
