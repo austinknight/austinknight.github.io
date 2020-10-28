@@ -11,7 +11,7 @@ navPage: true
     <img src="/img/me.jpg" class="about-me-image" />
   </div>
   <div class="col-xs-10">
-    <p>I'm Austin. I am a designer and software engineer, husband, skateboarder, snowboarder and a kick-ass friend. I went to school at the University of Idaho where I earned a BFA in graphic design. I was first introduced to web development when I started creating a website for my now inactive company, Amity Outerwear. Most of my time these days is spent doing more front-end development than design, and I love every minute of it! Right now, I work as a Software Engineer at InsideSales.com.</p>
+    <p>I'm Austin. I am a software engineer, designer, husband, skateboarder, snowboarder and a kick-ass friend. I went to school at the University of Idaho where I earned a BFA in graphic design. I was first introduced to web development when I started creating a website for my now inactive company, Amity Outerwear. Most of my time these days is spent doing more fronte end egineering than design, and I love every minute of it!</p>
     <p>This site is where I talk about what I work on, and my thoughts about web-related stuff. You can follow me on <a href="https://twitter.com/austinknight">Twitter</a> for updates!</p>
   </div>
 </div>
